@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 💬 Ask me about **Frontend and Node Js**
+- 💬 Ask me about **React, JavaScript, Firebase, Frontend, SQL and Node Js**
 
 - 📫 How to reach me **amrendrait43@gmail.com**
 

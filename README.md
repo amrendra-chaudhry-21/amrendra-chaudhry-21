@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **amrendrait43@gmail.com**
 
+- 📫 Portfolio <a href="https://intro-website.netlify.app/" target="blank">
+
 - ⚡ Fun fact **I'm funny**
 
 <h3 align="left">Connect with me:</h3>

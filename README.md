@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **amrendrait43@gmail.com**
 
-- 📫 All of my projects are available at <a href="https://intro-website.netlify.app/" target="blank">MyPortfolio
+- 📫 All of my projects are available at <a href="https://intro-website.netlify.app/" target="blank">**MyPortfolio**
 
 - ⚡ Fun fact **I'm funny**
 

@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **amrendrait43@gmail.com**
 
-- 👨‍💻 Rate my Portfolio<a href="https://intro-website.netlify.app/" target="blank">**MyPortfolio**
+- 👨‍💻 Rate my Portfolio <a href="https://intro-website.netlify.app/" target="blank">**MyPortfolio**
 
 - ⚡ Fun fact **I'm funny**
 

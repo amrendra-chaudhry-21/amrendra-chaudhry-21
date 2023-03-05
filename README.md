@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-🔭 I’m currently working on 🚀 <a href="https://www.figma.com/file/uWYcLOr09ixeDz3GXU50xP/GRN-2023-GRN?node-id=440%3A21793" target="blank">**B2BProject**
+- 🔭 I’m currently working on 🚀 <a href="https://www.figma.com/file/uWYcLOr09ixeDz3GXU50xP/GRN-2023-GRN?node-id=440%3A21793" target="blank">**B2BProject**
 
 - 💬 Ask me about **React, JavaScript, Firebase, Frontend, SQL and Node Js**
 

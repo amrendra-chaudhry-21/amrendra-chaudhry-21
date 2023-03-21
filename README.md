@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/amrendra_43" target="blank"><img src="https://img.shields.io/twitter/follow/amrendra_43?logo=twitter&style=for-the-badge" alt="amrendra_43" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **Namaste React**
 
 - 🔭 I’m currently working on 🚀 <a href="https://www.figma.com/file/uWYcLOr09ixeDz3GXU50xP/GRN-2023-GRN?node-id=440%3A21793" target="blank">**B2BProject**
 
